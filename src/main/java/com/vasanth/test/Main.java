@@ -8,7 +8,7 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.print("Hello and welcome!");
 
-        System.out.println("Testing for GitHub from Remote repo add");
+        System.out.println("Testing for GitHub from Remote repo addition");
 
         System.out.println("Added through git");
 
